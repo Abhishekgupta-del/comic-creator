@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f2f2f2; /* Change background color to light gray */
+  color: #333; /* Change text color to dark gray */
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #e6e6e6; /* Change code background color to light gray */
+  color: #cc0000; /* Change code text color to dark red */
+  padding: 4px; /* Add padding to code elements */
+  border-radius: 4px; /* Add rounded corners to code elements */
+  border: 1px solid #999; /* Add border to code elements */
+}
